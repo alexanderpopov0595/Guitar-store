@@ -1,0 +1,30 @@
+@charset "UTF-8";
+caption{
+	caption-side:top;
+	text-align:center;
+	padding:10 px 0;
+	font-size: 14px;
+}
+table{
+	/*No spaces */
+	border-collapse: collapse;
+	/*Black borders 2 px*/
+	border:  5px solid  black;	
+	background-color:white;
+}
+th, tr, td {
+	border:  2px solid  black;
+	text-align:center;
+	
+	
+}
+
+body{
+	background-image:url(background.jpg);
+}
+img{
+	border:0;
+	width:200px;
+	height:200px;
+
+}
